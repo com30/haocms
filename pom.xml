@@ -76,7 +76,7 @@
         <jwt.version>3.10.1</jwt.version>
         <guava.version>28.2-jre</guava.version>
         <snakeyaml.version>1.26</snakeyaml.version>
-        <swagger2.version>2.9.2</swagger2.version>
+        <swagger2.version>2.10.0</swagger2.version>
         <knife4j.version>2.0.2</knife4j.version>
 
         <maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
